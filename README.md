@@ -1,4 +1,6 @@
-# pxicap
-Assesment
-#npm install
-#npm run dev
+# PIXCAP
+
+## Set up
+`npm install`
+
+`npm run dev`
