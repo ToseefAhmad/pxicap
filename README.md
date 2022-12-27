@@ -1,4 +1,4 @@
 # pxicap
 Assesment
-npm install
-npmr un dev
+#npm install
+#npm run dev
